@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: KI-Kompetenz nach Artikel 4 AI Act
+message: "If you use this repository, please cite it as part of the SimpleAct AI Governance Framework."
+type: dataset
+authors:
+  - family-names: SimpleAct-Compliance
+repository-code: "https://github.com/SimpleAct-Compliance/elearning"
+license: MIT
+abstract: "AI literacy under Article 4 of the EU AI Act, applicable since 2 February 2025 and unaffected by the Digital Omnibus deferral: what the obligation requires, why it applies regardless of risk class, which groups outside the payroll it covers, how to differentiate training by role, and how to evidence effectiveness."
+keywords:
+  - EU AI Act
+  - AI literacy
+  - Art. 4
+  - training
+  - human oversight
+  - compliance evidence
+  - Digital Omnibus
+  - SimpleAct

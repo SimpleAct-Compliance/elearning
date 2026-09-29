@@ -1,0 +1,18 @@
+# SimpleAct — KI-Kompetenz nach Artikel 4 AI Act
+
+> Was die Kompetenzpflicht des AI Act verlangt, wen sie trifft und wie man sie nachweist. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland — https://simpleact.de
+
+Kernaussagen: Art. 4 ist **seit dem 2. Februar 2025 anwendbar** und wurde durch den Digital Omnibus (Verordnung (EU) 2026/1744) nicht verschoben — verschoben wurden die Hochrisiko-Pflichten nach Anhang III auf den 2.12.2027. Die Pflicht gilt **unabhängig von der Risikoklasse**, also auch für Systeme mit minimalem Risiko. Sie erfasst neben dem eigenen Personal auch Leiharbeitskräfte, freie Mitarbeiter und Auftragnehmer — die übliche Nachweislücke. Die Verordnung verlangt **kein Zertifikat**, keine Stundenzahl und kein einheitliches Modul, sondern ausdrücklich eine nach Vorkenntnissen und Kontext differenzierte Vermittlung.
+
+## Wissensbasis
+
+- [Was Artikel 4 verlangt](knowledge-base/ki-kompetenz-art-4.md): Wortlaut und Definition der KI-Kompetenz, Anwendbarkeit seit 2.2.2025, wer als Anbieter und Betreiber erfasst ist, was die Norm nicht verlangt, Wiederauftauchen der Kompetenz bei der menschlichen Aufsicht, Abgrenzung zur DSGVO-Schulung.
+- [Rollen und Tiefe](knowledge-base/rollen-und-tiefe.md): warum ein Modul für alle den Wortlaut verfehlt, gemeinsamer Grundlagenteil mit fünf Lernzielen, Rollenprofile für fachliche Nutzer, aufsichtsführende Personen, Beschaffung und Recht, technische Rollen und Leitung, Erfahrungswerte zum Aufwand.
+- [Nachweis und Wirksamkeit](knowledge-base/nachweis-und-wirksamkeit.md): was aufzubewahren ist, die Lücke bei Externen und zwei Wege sie zu schließen, vier Wirksamkeitsprüfungen aus ohnehin vorhandenen Daten, anlassbezogene Auffrischung insbesondere bei stillem Modellwechsel.
+
+## Vorlagen
+
+- [Schulungsplan](templates/schulungsplan.md) mit Personenkreis außerhalb des Personalstamms
+- [Teilnahmenachweis](templates/teilnahmenachweis.md) mit Fassungsstand und Feld für Rückfragen und Offenes
+
+Keine Rechtsberatung. Stand: September 2026. Lizenz: MIT.
